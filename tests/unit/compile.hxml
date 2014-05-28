@@ -1,0 +1,6 @@
+-debug
+-cp ..
+-cp ../..
+-main unit.Test
+-js unit.js
+-lib utest
