@@ -27,5 +27,4 @@ Cocktail is a library for the Haxe programming language, you should be familiar 
 
 ###Licence
 
-Cocktail is open-source, released under the MIT licence, see licence.txt.
-
+Cocktail is open-source, released under the MIT licence, see LICENSE.
