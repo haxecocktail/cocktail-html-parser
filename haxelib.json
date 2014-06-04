@@ -1,0 +1,8 @@
+{
+    "name": "cocktail-html-parser",
+    "url": "https://github.com/haxecocktail/cocktail-html-parser",
+    "licence": "MIT",
+    "version": "0.0.1",
+    "description": "Cross-platform HTML5 Parser",
+    "contributors": ["Thomas Fétiveau", "Yannick Dominguez"]
+}
